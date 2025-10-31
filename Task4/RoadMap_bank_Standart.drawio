@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Roadmap MVP - 6 месяцев" id="2JRGh5O6CVe-orE9n6tN">
+    <mxGraphModel dx="5357" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60NVzIy27s2pXvNsVji8-1" value="Дорожная карта MVP - Передача ставок в кол-центры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-220" y="50" width="2000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-2" value="Q1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="120" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-5" value="Q2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="120" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-8" value="Сервис управления ставками" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;fontColor=#333333;strokeColor=#9673a6;fontSize=16;fontStyle=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="180" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-9" value="Инфраструктура" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontColor=#333333;strokeColor=#82b366;fontSize=16;fontStyle=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="321" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-10" value="CRM внутреннего кол-центра" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;fontColor=#333333;strokeColor=#d6b656;fontSize=16;fontStyle=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="460" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-11" value="Партнерский кол-центр" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;fontColor=#333333;strokeColor=#b85450;fontSize=16;fontStyle=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="100" y="600" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-12" value="Разработка REST API" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-13" value="Веб-интерфейс администратора" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-14" value="Механизм файловой выгрузки" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-15" value="Интеграция с логикой расчета" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-16" value="Тестирование API" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-17" value="Подготовка к пилоту" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-18" value="Настройка SFTP-сервера" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="341" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-19" value="Развертывание БД MS SQL" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="341" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-20" value="Настройка безопасности" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="341" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-21" value="Настройка мониторинга" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="341" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-22" value="Резервное копирование" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="341" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-23" value="Настройка алертинга" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="341" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-24" value="Разработка клиента API" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-25" value="Реализация кэширования" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-26" value="Интерфейс оператора" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-27" value="Механизм уведомлений" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-28" value="Тестирование интеграции" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-29" value="Обучение операторов" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-30" value="Согласование формата файлов" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-31" value="Настройка SFTP-клиента" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-32" value="Разработка парсера файлов" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-33" value="Интерфейс для операторов" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="900" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-34" value="Тестирование импорта" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-35" value="Обучение персонала" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-36" value="Легенда:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1600" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-37" value="Планирование/Проектирование" style="shape=rect;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-38" value="Активная разработка" style="shape=rect;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-39" value="Тестирование/Запуск" style="shape=rect;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="60NVzIy27s2pXvNsVji8-40" value="Целевое состояние через год: Полная автоматизация открытия депозитов с интеграцией во все каналы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="40" y="720" width="1500" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
